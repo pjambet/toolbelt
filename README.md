@@ -14,6 +14,7 @@ Example of my "toolbelt" :
 - the_silver_searcher
 - mailcatcher
 - postman REST Client
+- virtualenv/virtualenvwrapper
 - etc ...
 
 Some are mainstream, some less, that's the point of this project !
